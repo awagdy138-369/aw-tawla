@@ -1,0 +1,15 @@
+{
+  "name": "aw-tawla-online",
+  "version": "1.0.0",
+  "description": "AW Tawla — private online rooms (mahbousa, 31, gul bara)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
